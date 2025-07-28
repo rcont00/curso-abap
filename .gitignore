@@ -1,0 +1,20 @@
+# Ignorar archivos macOS
+.DS_Store
+
+# Ignorar archivos temporales de Eclipse
+*.tmp
+*.bak
+*.swp
+
+# Ignorar carpetas de configuraciones de Eclipse
+.project
+.settings/
+.metadata/
+
+# Ignorar archivos compilados u objetos binarios
+*.class
+*.o
+*.exe
+
+
+.project
